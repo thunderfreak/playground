@@ -10,7 +10,7 @@ Your tasks has been commented.
 
 # Task2 - merge branches and resolve conflicts
 
-1. Once i merge all the prs and there are no more prs
-2. Pull the changes from master branch and merge it in your branch
+1. Once u see all the 3 prs in github
+2. Pull the changes from your teamates branch and merge it in your branch
 3. Resolve conflicts in vs code
 4. Push again and send second pr with name pr2-<your name>
